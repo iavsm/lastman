@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123993954223",
+    "firebase_url": "https://lmsc-e36af.firebaseio.com",
+    "project_id": "lmsc-e36af",
+    "storage_bucket": "lmsc-e36af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123993954223:android:f68350357c93265399815a",
+        "android_client_info": {
+          "package_name": "com.lastman.flutter_app_last_man"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123993954223-uh4h4khatrv0h1irjlg6squaii2egi7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAmH95enMJPP4cj7o160LTMPKU2ygSwPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123993954223-uh4h4khatrv0h1irjlg6squaii2egi7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
